@@ -1,16 +1,19 @@
-## Hi there 👋
+# Emergency Plumber
 
-<!--
-**emergencyplumber136/emergencyplumber136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emergency Plumber is a nationwide directory of verified emergency plumbing businesses across the United States. Homeowners can search by city and service to find a local plumber fast — including 24/7 emergency call-outs, drain cleaning, water heater repair and more.
 
-Here are some ideas to get you started:
+Website: https://emergency-plumber.online
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you can find
+
+- 24/7 emergency call-outs
+- Drain cleaning
+- Water heater repair
+- Local emergency plumbers by city and service
+
+## Contact
+
+- Website: [emergency-plumber.online](https://emergency-plumber.online)
+- Email: info@emergency-plumber.online
+
+*Emergency Plumber is a directory, not a plumbing contractor.*
